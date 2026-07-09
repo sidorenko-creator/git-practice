@@ -1,14 +1,25 @@
- feature-branch
-i need do this:
-work and study
- hi 
- its my first tasc
- git init 
- git clone
- git status 
- git add
- git commit
- git swith
- git merge
- git push
- git pull
+# 👤 About Me
+
+**Aspiring QA Engineer** with a strong focus on software quality, meticulous testing, and robust version control. Practical experience in managing repository workflows, working with Git branches, and resolving merge conflicts. Currently based in Italy and actively preparing for a ** QA** role where I can contribute to a professional team and grow within the IT industry.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Version Control:** Git, GitHub, GitHub Desktop
+* **Testing & Tools:** Manual Testing (Functional, Usability, Responsiveness), Bug Reporting
+* **Methodologies:** SDLC, STLC basics
+
+---
+
+## 🔹 Real World Projects
+<a name="real-world-projects"></a>
+
+### [git-practice](https://github.com/sidorenko-creator/git-practice)
+* **Description:** A hands-on repository dedicated to mastering Git version control and GitHub collaborative workflows.
+* **Activities:** Managed multiple branches (`main`, `feature-branch`), performed successful branch merges (`git merge`), resolved line-by-line merge conflicts manually, and maintained clean repository history via GitHub Desktop.
+* **Tools used:** Git, GitHub Desktop.
+
+---
+
+## 📬 Contact sidorenko.appstore@gmail.com
