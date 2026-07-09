@@ -1,4 +1,8 @@
- hi its my first tasc
+ feature-branch
+i need do this:
+work and study
+ hi 
+ its my first tasc
  git init 
  git clone
  git status 
@@ -8,4 +12,3 @@
  git merge
  git push
  git pull
- 
